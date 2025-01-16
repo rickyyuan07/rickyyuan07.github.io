@@ -44,7 +44,23 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{
+        },{id: "post-my-first-post",
+      
+        title: "My first post",
+      
+      description: "This is my first post on the Jekyll theme.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/first-post/";
+        
+      },
+    },{id: "projects-deformable-vit-in-needle",
+          title: 'Deformable ViT in Needle',
+          description: "Final project for the course &quot;CMU 10714 Deep Learning System&quot;",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/1_project/";
+            },},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',

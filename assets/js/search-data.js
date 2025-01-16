@@ -55,7 +55,13 @@ ninja.data = [{
           window.location.href = "/blog/2025/first-post/";
         
       },
-    },{id: "projects-deformable-vit-in-needle",
+    },{id: "news-i-received-my-bachelor-s-degree-in-computer-science-and-information-engineering-csie-from-national-taiwan-university-ntu",
+          title: 'I received my bachelor’s degree in Computer Science and Information Engineering (CSIE) from...',
+          description: "",
+          section: "News",},{id: "news-i-began-my-master-s-studies-in-the-master-of-science-in-computer-vision-mscv-program-at-carnegie-mellon-university-cmu",
+          title: 'I began my Master’s studies in the Master of Science in Computer Vision...',
+          description: "",
+          section: "News",},{id: "projects-deformable-vit-in-needle",
           title: 'Deformable ViT in Needle',
           description: "Final project for the course &quot;CMU 10714 Deep Learning System&quot;",
           section: "Projects",handler: () => {

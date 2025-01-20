@@ -25,4 +25,4 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-Right now my biography is empty, please wait until I have time to write it. 
+Hello Everyone! Welcome to my personal website. I am a current Master of Science in Computer Vision (MSCV) student at Carnegie Mellon University (CMU). My research interests include but not limited to 3D rendering, multi-modal machine learning, model perception, etc. I'm a tech lover and a gamer. I'm actively seeking software/machine learning engineer internship opportunities for Summer 2025. Please feel free to reach out to me if you have any questions or opportunities.

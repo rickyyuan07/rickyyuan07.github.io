@@ -2,7 +2,7 @@
   type: map
   contents:
     - name: Full Name
-      value: Ricky Yuan
+      value: Ricky (Shao-Ji) Yuan (袁紹奇)
     # - name: Date of Birth
     #   value: 14th March 1879
     - name: Languages
@@ -23,35 +23,45 @@
     #         - Sub-description 2.
     - title: Master of Science in Computer Vision
       institution: Robotics Institute, Carnegie Mellon University, Pittsburgh, Pennsylvania, US
-      year: 2024
-      # description:
-      #   - Description 1.
-      #   - Description 2.
+      year: 2025
+      description:
+        - "Overall GPA: 4.22 / 4.30"
+        - "Selected Coursework: Advanced Computer Vision, Intro to Robot Learning, Deep Learning System, Multimodal Machine Learning, Robot Localization & Mapping"
+        
+    - title: Bachelor of Science in Computer Science and Information Engineering
+      institution: National Taiwan University, Taipei, Taiwan
+      year: 2023
+      description:
+        - "Overall GPA: 4.13 / 4.30"
+        - "Selected Coursework: 3D Computer Vision, Object Oriented Programming, Computer Graphics"
 
-- title: Experience
+- title: Skills
+  type: list
+  contents:
+    - <b>Programming:</b> Python, C/C++, C#, JAVA, JavaScript, SQL, SCOPE, Assembly (RISC-V), CUDA
+    - <b>Libraries:</b> Pytorch, Numpy, Pandas, Sklearn, PySpark, Matplotlib, OpenCV, Gym
+    - <b>Others:</b> Git, Docker, GNU/Linux, LaTeX, Shell Script, Azure, AWS, Problem Solving
+
+- title: Work Experience
   type: time_table
   contents:
-    # - title: Professor of Theoretical Physics
-    #   institution: Institute for Advanced Study, Princeton University
-    #   year: 1933 - 1955
-    #   description:
-    #     - Description 1.
-    #     - Description 2.
-    #     - title: Description 3.
-    #       contents:
-    #         - Sub-description 1.
-    #         - Sub-description 2.
-    # - title: Visiting Professor
-    #   institution: California Institute of Technology, Pasadena, California, US
-    #   year: 1933
-    #   description:
-    #     - Description 1.
-    #     - Description 2.
+    - title: Research & Development Intern
+      institution: Microsoft Research, Redmond, Washington, US (Remote from Taipei, Taiwan)
+      year: 2022-2024
+      description:
+        - "Standardized global map storing schema, enhancing data processing efficiency using AWS Athena and PySpark in 
+        collaboration with international colleagues in Overture Maps foundation 
+        (<a href=\"https://github.com/OvertureMaps\">Github</a>, <a href=\"https://overturemaps.org/\">Website</a>)"
+        - "Engineered and maintained full-stack internal debugging tools, optimizing troubleshooting pipeline in routing services 
+        utilized by 10+ employees and managing thousands of weekly queries"
 
-    # - title: Director
-    #   institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-    #   year: 1917-1933
-
+    - title: Research Engineer Intern
+      institution: MobileDrive, Foxconn Technology Group, New Taipei, Taiwan
+      year: 2022
+      description:
+        - "Engineered a full-stack annotation platform to support multi-tasking with multi-sensor datasets, 
+        improving data annotation efficiency from minutes to average 30 seconds per bounding box"
+        - Implemented SOTA auto-labeling framework 3DAL for 3D object detection on Taiwanese road datasets
     # - title: Professor of Theoretical Physics
     #   institution: Karl-Ferdinand University, Prague, Czechoslovakia
     #   year: 1911 - 1917
@@ -61,8 +71,8 @@
     #   institution: University of Zurich, Zurich, Switzerland
     #   year: 1909 - 1911
 
-- title: Open Source Projects
-  type: time_table
+# - title: Open Source Projects
+#   type: time_table
   # contents:
   #   - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
   #     year: 2015-now
@@ -70,17 +80,16 @@
 
 - title: Honors and Awards
   type: time_table
-  # contents:
-  #   - year: 1921
-  #     items:
-  #       - Nobel Prize in Physics
-  #       - Matteucci Medal
+  contents:
+    - year: 2020
+      items:
+        - Dean's List Award
   #   - year: 2029
   #     items:
   #       - Max Planck Medal
 
-- title: Academic Interests
-  type: nested_list
+# - title: Academic Interests
+#   type: nested_list
   # contents:
   #   - title: Topic 1.
   #     items:
@@ -91,7 +100,7 @@
   #       - Description 1.
   #       - Description 2.
 
-- title: Other Interests
+- title: Interests
   type: list
   contents:
     - <u>Hobbies:</u> Badminton, movies, photography, gaming, etc.

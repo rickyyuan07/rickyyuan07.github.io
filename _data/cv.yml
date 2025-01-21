@@ -46,7 +46,7 @@
   type: time_table
   contents:
     - title: Research & Development Intern
-      institution: Microsoft Research, Redmond, Washington, US (Remote from Taipei, Taiwan)
+      company: Microsoft Research, Redmond, Washington, US (Remote from Taipei, Taiwan)
       year: 2022-2024
       description:
         - "Standardized global map storing schema, enhancing data processing efficiency using AWS Athena and PySpark in 
@@ -56,7 +56,7 @@
         utilized by 10+ employees and managing thousands of weekly queries"
 
     - title: Research Engineer Intern
-      institution: MobileDrive, Foxconn Technology Group, New Taipei, Taiwan
+      company: MobileDrive, Foxconn Technology Group, New Taipei, Taiwan
       year: 2022
       description:
         - "Engineered a full-stack annotation platform to support multi-tasking with multi-sensor datasets, 

@@ -27,7 +27,7 @@
       description:
         - "Overall GPA: 4.22 / 4.30"
         - "Selected Coursework: Deep Learning System, Multimodal Machine Learning, Robot Localization & Mapping, Learning for 3D Vision"
-        
+
     - title: B.S. in Computer Science and Information Engineering
       institution: National Taiwan University, Taipei, Taiwan
       year: 2023
@@ -58,17 +58,17 @@
       company: Microsoft Research, Redmond, Washington, US (Remote from Taipei, Taiwan)
       year: 2022-2024
       description:
-        - "Standardized global map storing schema, enhancing data processing efficiency using AWS Athena and PySpark in 
-          collaboration with international colleagues in Overture Maps foundation 
-          (<a href=\"https://github.com/OvertureMaps\">Github</a>, <a href=\"https://overturemaps.org/\">Website</a>)"
-        - "Engineered and maintained full-stack internal debugging tools, optimizing troubleshooting pipeline in routing services 
+        - 'Standardized global map storing schema, enhancing data processing efficiency using AWS Athena and PySpark in
+          collaboration with international colleagues in Overture Maps foundation
+          (<a href="https://github.com/OvertureMaps">Github</a>, <a href="https://overturemaps.org/">Website</a>)'
+        - "Engineered and maintained full-stack internal debugging tools, optimizing troubleshooting pipeline in routing services
           utilized by 10+ employees and managing thousands of weekly queries"
 
     - title: Research Engineer Intern
       company: MobileDrive, Foxconn Technology Group, New Taipei, Taiwan
       year: 2022
       description:
-        - "Engineered a full-stack annotation platform to support multi-tasking with multi-sensor datasets, 
+        - "Engineered a full-stack annotation platform to support multi-tasking with multi-sensor datasets,
           improving data annotation efficiency from minutes to average 30 seconds per bounding box"
         - Implemented SOTA auto-labeling framework 3DAL for 3D object detection on Taiwanese road datasets
     # - title: Professor of Theoretical Physics
@@ -82,11 +82,10 @@
 
 # - title: Open Source Projects
 #   type: time_table
-  # contents:
-  #   - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-  #     year: 2015-now
-  #     description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
+# contents:
+#   - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+#     year: 2015-now
+#     description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 - title: Honors and Awards
   type: time_table
   contents:
@@ -99,15 +98,15 @@
 
 # - title: Academic Interests
 #   type: nested_list
-  # contents:
-  #   - title: Topic 1.
-  #     items:
-  #       - Description 1.
-  #       - Description 2.
-  #   - title: Topic 2.
-  #     items:
-  #       - Description 1.
-  #       - Description 2.
+# contents:
+#   - title: Topic 1.
+#     items:
+#       - Description 1.
+#       - Description 2.
+#   - title: Topic 2.
+#     items:
+#       - Description 1.
+#       - Description 2.
 
 - title: Interests
   type: list

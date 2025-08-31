@@ -7,4 +7,3 @@ related_posts: false
 ---
 
 I'll be joining Aurora as a Software Engineering Intern in the Summer of 2025!
-

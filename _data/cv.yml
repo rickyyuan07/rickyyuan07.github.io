@@ -6,7 +6,7 @@
     # - name: Date of Birth
     #   value: 14th March 1879
     - name: Languages
-      value: English, Chinese, Japanese
+      value: English, Mandarin, Japanese (Intermediate), Cantonese (Beginner)
 
 - title: Education
   type: time_table
@@ -21,14 +21,14 @@
     #       contents:
     #         - Sub-description 1.
     #         - Sub-description 2.
-    - title: Master of Science in Computer Vision
+    - title: M.S. in Computer Vision
       institution: Robotics Institute, Carnegie Mellon University, Pittsburgh, Pennsylvania, US
       year: 2025
       description:
         - "Overall GPA: 4.22 / 4.30"
-        - "Selected Coursework: Advanced Computer Vision, Intro to Robot Learning, Deep Learning System, Multimodal Machine Learning, Robot Localization & Mapping"
+        - "Selected Coursework: Deep Learning System, Multimodal Machine Learning, Robot Localization & Mapping, Learning for 3D Vision"
         
-    - title: Bachelor of Science in Computer Science and Information Engineering
+    - title: B.S. in Computer Science and Information Engineering
       institution: National Taiwan University, Taipei, Taiwan
       year: 2023
       description:
@@ -38,29 +38,38 @@
 - title: Skills
   type: list
   contents:
-    - <b>Programming:</b> Python, C/C++, C#, JAVA, JavaScript, SQL, SCOPE, Assembly (RISC-V), CUDA
-    - <b>Libraries:</b> Pytorch, Numpy, Pandas, Sklearn, PySpark, Matplotlib, OpenCV, Gym
-    - <b>Others:</b> Git, Docker, GNU/Linux, LaTeX, Shell Script, Azure, AWS, Problem Solving
+    - <b>Programming:</b> Python, C/C++, TypeScript, C#, JAVA, SQL, SCOPE, Assembly (RISC-V), CUDA
+    - <b>Libraries:</b> gRPC, PyTorch, NumPy, Pandas, Scikit-learn, PySpark, Matplotlib, OpenCV, React.js
+    - <b>Others:</b> Git, GitHub, Docker, GNU/Linux, LaTeX, Shell Script, Azure, AWS, Buildkite, Problem Solving
 
 - title: Work Experience
   type: time_table
   contents:
-    - title: Research & Development Intern
+    - title: Software Engineer Intern | Control & Behavior Simulation Team
+      company: Aurora Innovation, Pittsburgh, PA
+      year: 2025
+      description:
+        - Delivered test tooling adopted in production vehicle-level Verification & Validation pipelines for behavioral safety requirements.
+        - Developed a Synthetic Actor Injection Tool with C++ and Typescript which enables safe, repeatable simulation of perception outputs with kinetic and geometric consistency, directly unblocking a critical path for planner/controller validation.
+        - Built operator UI and backend modules via gRPC to simulate signals without physical actors, reducing test risk and complexity.
+        - Collaborated independently and cross-functionally with Controls, Perception, Planning, Simulation, and Test Engineering teams.
+
+    - title: Research & Development Intern | Bing Maps Direction Services Team
       company: Microsoft Research, Redmond, Washington, US (Remote from Taipei, Taiwan)
       year: 2022-2024
       description:
         - "Standardized global map storing schema, enhancing data processing efficiency using AWS Athena and PySpark in 
-        collaboration with international colleagues in Overture Maps foundation 
-        (<a href=\"https://github.com/OvertureMaps\">Github</a>, <a href=\"https://overturemaps.org/\">Website</a>)"
+          collaboration with international colleagues in Overture Maps foundation 
+          (<a href=\"https://github.com/OvertureMaps\">Github</a>, <a href=\"https://overturemaps.org/\">Website</a>)"
         - "Engineered and maintained full-stack internal debugging tools, optimizing troubleshooting pipeline in routing services 
-        utilized by 10+ employees and managing thousands of weekly queries"
+          utilized by 10+ employees and managing thousands of weekly queries"
 
     - title: Research Engineer Intern
       company: MobileDrive, Foxconn Technology Group, New Taipei, Taiwan
       year: 2022
       description:
         - "Engineered a full-stack annotation platform to support multi-tasking with multi-sensor datasets, 
-        improving data annotation efficiency from minutes to average 30 seconds per bounding box"
+          improving data annotation efficiency from minutes to average 30 seconds per bounding box"
         - Implemented SOTA auto-labeling framework 3DAL for 3D object detection on Taiwanese road datasets
     # - title: Professor of Theoretical Physics
     #   institution: Karl-Ferdinand University, Prague, Czechoslovakia
@@ -103,4 +112,4 @@
 - title: Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Badminton, movies, photography, gaming, etc.
+    - <u>Hobbies:</u> Badminton, aviation, movies, photography, gaming, etc.

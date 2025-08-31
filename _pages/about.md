@@ -3,19 +3,16 @@ layout: about
 title: About
 permalink: /
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
-subtitle: MSCV student @ CMU | B.S. in CSIE @ NTU | Actively Seeking Intern opportunity for Summer 2025
+subtitle: M.S. in Computer Vision @ CMU | B.S. in Computer Science @ NTU
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>(412) 515 4675</p>
-    <p>5000 Forbes Avenue</p>
-    <p>Pittsburgh, PA 15213</p>
+  more_info: >-
 
 news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 <!-- 

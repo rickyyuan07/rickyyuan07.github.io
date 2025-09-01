@@ -3,6 +3,7 @@ layout: post
 title: My first post
 date: 2025-01-16
 description: This is my first post on the Jekyll theme.
+giscus_comments: true
 tags:
 categories:
 ---

@@ -92,9 +92,9 @@
     - year: 2020
       items:
         - Dean's List Award
-  #   - year: 2029
-  #     items:
-  #       - Max Planck Medal
+    - year: 2025
+      items:
+        - 2nd Place, Best Use of Computer Vision Award @ TartanHacks 2025!
 
 # - title: Academic Interests
 #   type: nested_list

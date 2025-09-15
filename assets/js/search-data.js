@@ -69,11 +69,56 @@ ninja.data = [{
             },},{id: "news-i-ll-be-joining-aurora-as-a-software-engineering-intern-in-the-summer-of-2025",
           title: 'I’ll be joining Aurora as a Software Engineering Intern in the Summer of...',
           description: "",
-          section: "News",},{id: "projects-deformable-vit-in-needle",
+          section: "News",},{id: "projects-cmu-10714-homework",
+          title: 'CMU 10714 Homework',
+          description: "Deep Learning System Fall 2024",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/CMU10714-DLSys/";
+            },},{id: "projects-cmu-16820-homework",
+          title: 'CMU 16820 Homework',
+          description: "Advanced Computer Vision Fall 2024",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/CMU16820-CV/";
+            },},{id: "projects-cmu-16825-homework",
+          title: 'CMU 16825 Homework',
+          description: "Learning for 3D Vision Fall 2025",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/CMU16825-L3D/";
+            },},{id: "projects-cmu-16831-homework",
+          title: 'CMU 16831 Homework',
+          description: "Intro to Robot Learning Fall 2024",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/CMU16831-RL/";
+            },},{id: "projects-cmu-16833-homework",
+          title: 'CMU 16833 Homework',
+          description: "Robot Localization and Mapping Spring 2025",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/CMU16833-SLAM/";
+            },},{id: "projects-facetracker",
+          title: 'FaceTracker',
+          description: "Take home project for interviewing HeyGen.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/FaceTracker/";
+            },},{id: "projects-mgf-localization-elevation-mapping",
+          title: 'MGF-Localization / Elevation Mapping',
+          description: "Final project for the course &quot;CMU 16833 Robot Localization and Mapping&quot;",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/MGFLocalization_ElevationMapping/";
+            },},{id: "projects-phantompen",
+          title: 'PhantomPen',
+          description: "Free-Hand Signature Authentication",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/PhantomPen/";
+            },},{id: "projects-roboclimber",
+          title: 'RoboClimber',
+          description: "Final project for the course &quot;CMU 16831 Intro to Robot Learning&quot;",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/RoboClimber/";
+            },},{id: "projects-deformable-vit-in-needle",
           title: 'Deformable ViT in Needle',
           description: "Final project for the course &quot;CMU 10714 Deep Learning System&quot;",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
+              window.location.href = "/projects/ViT_Needle/";
             },},{
         id: 'social-email',
         title: 'email',

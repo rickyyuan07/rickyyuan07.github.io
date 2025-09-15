@@ -4,7 +4,7 @@ title: Deformable ViT in Needle
 description: Final project for the course "CMU 10714 Deep Learning System"
 img: assets/img/project_preview/ViT.png
 importance: 1
-category: Course
+category: Course Projects
 related_publications: false
 ---
 

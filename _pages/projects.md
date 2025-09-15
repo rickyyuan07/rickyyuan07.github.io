@@ -5,7 +5,7 @@ permalink: /projects/
 description: Some of my cool projects.
 nav: true
 nav_order: 3
-display_categories: [Course, Fun]
+display_categories: [Course Projects, Course Homeworks, Fun]
 horizontal: false
 ---
 

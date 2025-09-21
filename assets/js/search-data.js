@@ -84,6 +84,11 @@ ninja.data = [{
           description: "Learning for 3D Vision Fall 2025",
           section: "Projects",handler: () => {
               window.location.href = "/projects/CMU16825-L3D/";
+            },},{id: "projects-cmu-16824-homework",
+          title: 'CMU 16824 Homework',
+          description: "Visual Learning &amp; Recognition Fall 2025",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/CMU16825-VLR/";
             },},{id: "projects-cmu-16831-homework",
           title: 'CMU 16831 Homework',
           description: "Intro to Robot Learning Fall 2024",

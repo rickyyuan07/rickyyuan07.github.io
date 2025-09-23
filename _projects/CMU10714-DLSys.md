@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CMU 10714 Homework
+title: CMU 10714
 description: Deep Learning System Fall 2024
 img: assets/img/project_preview/10714/10714.png
 importance: 1

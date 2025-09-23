@@ -101,7 +101,7 @@ ninja.data = [{
               window.location.href = "/projects/CMU16833-SLAM/";
             },},{id: "projects-facetracker",
           title: 'FaceTracker',
-          description: "Take home project for interviewing HeyGen.",
+          description: "A simple face Match and extractor tools",
           section: "Projects",handler: () => {
               window.location.href = "/projects/FaceTracker/";
             },},{id: "projects-mgf-localization-elevation-mapping",

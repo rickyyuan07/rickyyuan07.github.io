@@ -69,33 +69,33 @@ ninja.data = [{
             },},{id: "news-i-ll-be-joining-aurora-as-a-software-engineering-intern-in-the-summer-of-2025",
           title: 'I’ll be joining Aurora as a Software Engineering Intern in the Summer of...',
           description: "",
-          section: "News",},{id: "projects-cmu-10714-homework",
-          title: 'CMU 10714 Homework',
+          section: "News",},{id: "projects-cmu-10714",
+          title: 'CMU 10714',
           description: "Deep Learning System Fall 2024",
           section: "Projects",handler: () => {
               window.location.href = "/projects/CMU10714-DLSys/";
-            },},{id: "projects-cmu-16820-homework",
-          title: 'CMU 16820 Homework',
+            },},{id: "projects-cmu-16820",
+          title: 'CMU 16820',
           description: "Advanced Computer Vision Fall 2024",
           section: "Projects",handler: () => {
               window.location.href = "/projects/CMU16820-CV/";
-            },},{id: "projects-cmu-16825-homework",
-          title: 'CMU 16825 Homework',
+            },},{id: "projects-cmu-16824",
+          title: 'CMU 16824',
+          description: "Visual Learning &amp; Recognition Fall 2025",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/CMU16824-VLR/";
+            },},{id: "projects-cmu-16825",
+          title: 'CMU 16825',
           description: "Learning for 3D Vision Fall 2025",
           section: "Projects",handler: () => {
               window.location.href = "/projects/CMU16825-L3D/";
-            },},{id: "projects-cmu-16824-homework",
-          title: 'CMU 16824 Homework',
-          description: "Visual Learning &amp; Recognition Fall 2025",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/CMU16825-VLR/";
-            },},{id: "projects-cmu-16831-homework",
-          title: 'CMU 16831 Homework',
+            },},{id: "projects-cmu-16831",
+          title: 'CMU 16831',
           description: "Intro to Robot Learning Fall 2024",
           section: "Projects",handler: () => {
               window.location.href = "/projects/CMU16831-RL/";
-            },},{id: "projects-cmu-16833-homework",
-          title: 'CMU 16833 Homework',
+            },},{id: "projects-cmu-16833",
+          title: 'CMU 16833',
           description: "Robot Localization and Mapping Spring 2025",
           section: "Projects",handler: () => {
               window.location.href = "/projects/CMU16833-SLAM/";

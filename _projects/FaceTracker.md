@@ -1,7 +1,7 @@
 ---
 layout: page
 title: FaceTracker
-description: Take home project for interviewing HeyGen.
+description: A simple face Match and extractor tools
 img: 
 importance: 1
 category: Fun

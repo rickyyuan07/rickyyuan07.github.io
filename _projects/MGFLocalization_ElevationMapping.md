@@ -3,7 +3,7 @@ layout: page
 title: MGF-Localization / Elevation Mapping
 description: Final project for the course "CMU 16833 Robot Localization and Mapping"
 img: 
-importance: 10
+importance: 5
 category: Course Projects
 related_publications: false
 ---

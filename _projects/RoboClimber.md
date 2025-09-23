@@ -3,7 +3,7 @@ layout: page
 title: RoboClimber
 description: Final project for the course "CMU 16831 Intro to Robot Learning"
 img: 
-importance: 1
+importance: 10
 category: Course Projects
 related_publications: false
 ---

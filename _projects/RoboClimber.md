@@ -2,12 +2,13 @@
 layout: page
 title: RoboClimber
 description: Final project for the course "CMU 16831 Intro to Robot Learning"
-img: 
+img:
 importance: 10
 category: Course Projects
 related_publications: false
 ---
 
 # Introduction
+
 GitHub link: [RoboClimber](https://github.com/yanghan9014/RoboClimber)
 (Under construction)
